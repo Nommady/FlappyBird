@@ -1,3 +1,3 @@
 # FlappyBird
 
-https://nommady.github.io/FlappyBird/.Index.html
+https://nommady.github.io/FlappyBird/Index.html
